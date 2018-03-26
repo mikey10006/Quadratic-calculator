@@ -1,0 +1,2 @@
+# Quadratic-calculator
+calculates quadratics
